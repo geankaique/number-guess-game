@@ -43,7 +43,7 @@ Clone the repository:
 `cd number-guessing-game`
 
 # How to Play
-inside the program directory
+Inside the program directory
 
 `cd number-guess` 
 
